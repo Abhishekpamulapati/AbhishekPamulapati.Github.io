@@ -15,6 +15,6 @@ pygame
 - Databricks Data engineer associate
 - Deeplearning.AI Professional Certification
 ## Education
-Masters in Management, Windsor 
+Masters in Management, Windsor, Canada 
 
-Bachelors in Technology, Hyderabad
+Bachelors in Technology, Hyderabad, India
