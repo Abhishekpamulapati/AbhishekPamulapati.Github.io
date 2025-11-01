@@ -6,7 +6,11 @@ Data Engineer @ Black Diamond Group Limited
 - big impact 2 
 ## Projects
 - [Designed and developed modern datawarehouse](https://github.com/Abhishekpamulapati/sql-data-warehouse-project)
-  -- Build a complete medallion architecture using T-SQL with tech stack of SSMS, T-SQL (Store Procedures, DML, DCL, DDL), Drawio, notion.
+
+    - Build a complete medallion architecture using T-SQL with tech stack of SSMS, T-SQL (Store Procedures, DML, DCL, DDL), Drawio, notion.
+    - Developed and buid curated schemas bronze, silver, and gold for downstream business applications like PowerBI, and ML applications.
+    - Developed scripts, and UAT validation rubric to check the quality of data at each layer of the warehouse.
+    - Deployed ETL sync jobs between the curated zones using SQL agent, and enabled alerts for any pipeline failure to monitor logs and troubleshoot
 - [Spotify API Batch processing](https://github.com/Abhishekpamulapati/Spotify-API-Batch-Processing)
 - [Sales Analysis](https://github.com/Abhishekpamulapati/SalesAnalysis)
 - [pygame](https://github.com/Abhishekpamulapati/Pygame)
