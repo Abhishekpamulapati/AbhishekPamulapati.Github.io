@@ -24,7 +24,7 @@
 
 - [PySpark Transformation](https://github.com/Abhishekpamulapati/PortfolioProjects)
 
-  -Analyzed San Francisco Fire Department call data using PySpark to perform scalable transformations and insights
+  - Analyzed San Francisco Fire Department call data using PySpark to perform scalable transformations and insights
   - Cleaned and filtered over 1 million records, applied schema inference, timestamp parsing, and aggregation to uncover trends in incident types, response times, and neighborhood-level activity
   - Demonstrated efficient use of Spark DataFrame APIs and workflow automation
 - [pygame](https://github.com/Abhishekpamulapati/Pygame)
