@@ -6,7 +6,7 @@ Data Engineer @ Black Diamond Group Limited
 - big impact 2 
 ## Projects
 - [Designed and developed modern datawarehouse](https://github.com/Abhishekpamulapati/sql-data-warehouse-project)
-- {Spotify API Batch processing}(https://github.com/Abhishekpamulapati/Spotify-API-Batch-Processing)
+- [Spotify API Batch processing](https://github.com/Abhishekpamulapati/Spotify-API-Batch-Processing)
 - [Sales Analysis](https://github.com/Abhishekpamulapati/SalesAnalysis)
 - [pygame](https://github.com/Abhishekpamulapati/Pygame)
 
