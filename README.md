@@ -1,9 +1,14 @@
 # Data Engineer
 
 ### Experience
-Data Engineer @ Black Diamond Group Limited
-- big impact 1
-- big impact 2 
+- Data Engineer @ [Black Diamond Group Limited](https://www.blackdiamondgroup.com/)                 Mar'23 - Present
+
+    - Developed integrations from New ERP to cloud Datahub in azure instance to implement multi-hop architecture datawarehouse
+    -Implemented integration solutions using Boomi to suite analytics, and native JDBC, NetSuite Connector for ETLs to cloud datahub
+    -Migrated legacy SharePoint integrations from SOAP API to REST API to keep ETL jobs performant, and not impacting the business
+    - Developed End-to-End operational analytics solution across the businesses to have a visibility on monthly business operations and trained finance, operations, and HSE teams on the business process best practices which improved operational efficiency by 20 percents across North America, and Australian branches
+    - Developed a complete executive analytics solutions with down stream powerbi application for the leadership to monitor and guauge the revenue vs spend across multiple businesses drilling down to each business unit, also implemented RLS solution to the dashboard application. 
+
 ## Projects
 - [Designed and developed modern datawarehouse](https://github.com/Abhishekpamulapati/sql-data-warehouse-project)
 
