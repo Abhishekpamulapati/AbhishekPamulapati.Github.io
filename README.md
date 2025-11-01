@@ -5,10 +5,10 @@ Data Engineer @ Black Diamond Group Limited
 - big impact 1
 - big impact 2 
 ## Projects
-- Designed and developed modern datawarehouse
-- Spotify API Batch processing 
-- Sales Analysis
-- pygame
+- [Designed and developed modern datawarehouse](https://github.com/Abhishekpamulapati/sql-data-warehouse-project)
+- (Spotify API Batch processing)[https://github.com/Abhishekpamulapati/Spotify-API-Batch-Processing] 
+- [Sales Analysis](https://github.com/Abhishekpamulapati/SalesAnalysis)
+- (pygame)[https://github.com/Abhishekpamulapati/Pygame]
 
 ## Certifications
 - [Azure Data engineer associate](https://learn.microsoft.com/api/credentials/share/en-us/AbhishekPamulapati-2015/908E5F1BFC8F239C?sharingId)
