@@ -38,6 +38,5 @@
 - [Databricks Data engineer associate](https://credentials.databricks.com/ed35a0f0-3ede-4c26-b0be-86d4bcb2966)
 - [Deeplearning.AI Data Engineering Specialization](https://coursera.org/share/e72782d21dc80db174e37ced3a396ff2)
 ## Education
-Masters in Management, Windsor, Canada 
-
-Bachelors in Technology, Hyderabad, India
+- Masters in Management, Windsor, Canada 
+- Bachelors in Technology, Hyderabad, India
