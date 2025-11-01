@@ -32,7 +32,6 @@
   - A fast-paced arcade-style game built with Pygame where players control a spaceship dodging alien obstacles and collecting power-ups
   - Features include smooth sprite animations, collision detection, score tracking, and increasing difficulty over time.
   - Designed with modular code structure and custom assets for a retro sci-fi vibe.
-I can help you write a README or organize the repo structure for this game next.
 
 ## Certifications
 - [Azure Data engineer associate](https://learn.microsoft.com/api/credentials/share/en-us/AbhishekPamulapati-2015/908E5F1BFC8F239C?sharingId)
