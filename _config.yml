@@ -1,5 +1,6 @@
 title : Abhishek Pamulapati
 logo: /assets/img/AWS.jpg
 description: I have over 3 years of experience in designing and optimizing data pipelines, integrating large-scale datasets, and delivering actionable insights.
+skillset : source systems, integrations, storage abstractions, data modelling, performance tuning
 show_downloads: True
 theme: jekyll-theme-minimal
