@@ -37,6 +37,7 @@
 - [Azure Data engineer associate](https://learn.microsoft.com/api/credentials/share/en-us/AbhishekPamulapati-2015/908E5F1BFC8F239C?sharingId)
 - [Databricks Data engineer associate](https://credentials.databricks.com/ed35a0f0-3ede-4c26-b0be-86d4bcb2966)
 - [Deeplearning.AI Data Engineering Specialization](https://coursera.org/share/e72782d21dc80db174e37ced3a396ff2)
+  
 ## Education
 - Masters in Management, University of Windsor, Windsor, Canada 
 - Bachelors in Technology, JNTU-H,Hyderabad, India
