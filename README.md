@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Abhishekpamulapati-blue?logo=github)](https://github.com/Abhishekpamulapati)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pamulapati-0A66C2?logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](abhishekpamulapati899@gmail.com)
 
 ## 🛠️ Technical Skills
 
