@@ -32,7 +32,7 @@
 
 ## 💼 Professional Experience
 
-### Data Engineer @ Black Diamond Group Limited (https://www.blackdiamondgroup.com/)
+### Data Engineer @ [Black Diamond Group Limited](https://www.blackdiamondgroup.com/)
 **Mar '23 - Present**
 
 - Developed integrations from New ERP to cloud Datahub in Azure instance implementing multi-hop architecture datawarehouse
