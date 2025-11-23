@@ -53,10 +53,11 @@
 - Optimized query performance with indexing strategies
 - Implemented data quality checks and validation frameworks
 
-### Real-time Analytics Platform
-- Built real-time data pipelines using Apache Kafka and Spark Streaming
-- Implemented low-latency data processing for business intelligence
-- Designed distributed data storage architecture
+### Spotify batch processing 
+[Spotify webApp api pipeline](https://github.com/Abhishekpamulapati/Spotify-API-Batch-Processing) 
+- Built a OAuth and Token Management
+- Modular Code base logic
+- API pagination for albums and artists links on spotify
 
 ### Cloud Migration Initiative
 - Migrated on-premises data warehouse to Azure Cloud
