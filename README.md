@@ -62,7 +62,7 @@
 ### Cloud Migration Initiative
 - Migrated on-premises data warehouse to Azure Cloud
 - Reduced infrastructure costs by 40% through cloud optimization
-- Implemented automated backup and disaster recovery procedures
+- Implemented migration using ADF, SSIS, and Dell Boomi
 
 ---
 
@@ -70,6 +70,11 @@
 
 - **Advanced Certifications in Data Engineering**
 - Continuous learning in cloud technologies, big data frameworks, and modern data architecture
+
+##Certifications
+Azure Data Engineer Associate
+Databricks Data Engineer Associate
+Deep Learning.AI Data Engineer
 
 ---
 
