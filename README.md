@@ -68,7 +68,9 @@
 
 ## 📚 Education
 
-- **Advanced Certifications in Data Engineering**
+- Masters - University of Windsor
+- Bachelors - JNTU- Hyderabad
+- Advanced Certifications in Data Engineering
 - Continuous learning in cloud technologies, big data frameworks, and modern data architecture
 
 ### 📜 Certifications & Licenses
@@ -77,9 +79,8 @@
 - **Data Engineer** - DataCamp (Mar 2025 - Mar 2027)
 - **Databricks Certified Data Engineer Associate** - Databricks (Aug 2024 - Aug 2026)
 - **Microsoft Certified: Azure Data Engineer Associate** - Microsoft (Apr 2024 - Apr 2026)
-- **Data Engineer Associate** - DataCamp (Nov 2023 - Nov 2026)
-- **Microsoft Certified: Azure Data Fundamentals** - Microsoft (Dec 2022)
-- **Academy Accreditation - Databricks Fundamentals** - Databricks (Nov 2023 - Nov 2025)
+- **Data Engineer Associate** - DataCamp (Nov 2024 - Nov 2026)
+
 
 ---
 
