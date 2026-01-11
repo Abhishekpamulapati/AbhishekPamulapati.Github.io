@@ -1,7 +1,7 @@
 # 👨‍💻 Abhishek Pamulapati | Data Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Abhishekpamulapati-blue?logo=github)](https://github.com/Abhishekpamulapati)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pamulapati-0A66C2?logo=linkedin)](www.linkedin.com/in/abhishek-pamulapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pamulapati-0A66C2?logo=linkedin)](https://www.linkedin.com/in/abhishek-pamulapati)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:abhishekpamulapati899@gmail.com)
 
 ## 🛠️ Technical Skills
@@ -71,10 +71,15 @@
 - **Advanced Certifications in Data Engineering**
 - Continuous learning in cloud technologies, big data frameworks, and modern data architecture
 
-##Certifications
-Azure Data Engineer Associate
-Databricks Data Engineer Associate
-Deep Learning.AI Data Engineer
+### 📜 Certifications & Licenses
+
+- **Data Engineer** - DeepLearning.AI (Sep 2025)
+- **Data Engineer** - DataCamp (Mar 2025 - Mar 2027)
+- **Databricks Certified Data Engineer Associate** - Databricks (Aug 2024 - Aug 2026)
+- **Microsoft Certified: Azure Data Engineer Associate** - Microsoft (Apr 2024 - Apr 2026)
+- **Data Engineer Associate** - DataCamp (Nov 2023 - Nov 2026)
+- **Microsoft Certified: Azure Data Fundamentals** - Microsoft (Dec 2022)
+- **Academy Accreditation - Databricks Fundamentals** - Databricks (Nov 2023 - Nov 2025)
 
 ---
 
